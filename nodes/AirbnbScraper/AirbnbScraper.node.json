@@ -1,0 +1,32 @@
+{
+	"node": "n8n-nodes-scrapeunblocker-airbnb.airbnbScraper",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": [
+		"Data & Storage",
+		"Miscellaneous"
+	],
+	"resources": {
+		"credentialDocumentation": [
+			{
+				"url": "https://github.com/ScrapeUnblocker/n8n-nodes-scrapeunblocker-airbnb#credentials"
+			}
+		],
+		"primaryDocumentation": [
+			{
+				"url": "https://github.com/ScrapeUnblocker/n8n-nodes-scrapeunblocker-airbnb#readme"
+			}
+		]
+	},
+	"alias": [
+		"airbnb",
+		"stays",
+		"vacation rentals",
+		"short-term rentals",
+		"accommodation",
+		"travel",
+		"listings",
+		"apify",
+		"scrapeunblocker"
+	]
+}
